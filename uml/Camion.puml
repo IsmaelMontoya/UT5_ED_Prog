@@ -1,0 +1,5 @@
+@startuml
+class Camion extends Vehiculo {
+  - double capacidadCarga
+}
+@enduml

@@ -1,0 +1,13 @@
+@startuml
+abstract class Vehiculo {
+  - String matricula
+  - String marca
+  - String modelo
+  - int kilometraje
+  - double precio
+  - Persona? propietario
+
+  + double calcularDepreciacion()
+  + int calcularRiesgo(Persona conductor)
+}
+@enduml

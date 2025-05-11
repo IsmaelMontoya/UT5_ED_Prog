@@ -1,0 +1,5 @@
+@startuml
+class Moto extends Vehiculo {
+  - int cilindrada
+}
+@enduml

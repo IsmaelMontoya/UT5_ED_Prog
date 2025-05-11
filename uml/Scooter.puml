@@ -1,0 +1,5 @@
+@startuml
+class Scooter extends Moto {
+  - boolean esElectrica
+}
+@enduml

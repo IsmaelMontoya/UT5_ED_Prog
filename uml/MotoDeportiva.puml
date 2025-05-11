@@ -1,0 +1,5 @@
+@startuml
+class MotoDeportiva extends Moto {
+  - double relacionPesoPotencia
+}
+@enduml

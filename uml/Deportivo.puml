@@ -1,0 +1,5 @@
+@startuml
+class Deportivo extends Coche {
+  - int potenciaCV
+}
+@enduml

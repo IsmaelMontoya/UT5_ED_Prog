@@ -1,0 +1,5 @@
+@startuml
+class SUV extends Coche {
+  - boolean traccion4x4
+}
+@enduml

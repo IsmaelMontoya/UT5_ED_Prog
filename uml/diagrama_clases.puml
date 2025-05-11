@@ -1,0 +1,13 @@
+@startuml
+!include Vehiculo.puml
+!include Coche.puml
+!include Moto.puml
+!include Camion.puml
+!include Persona.puml
+!include Valorable.puml
+!include Sedan.puml
+!include SUV.puml
+!include Deportivo.puml
+!include Scooter.puml
+!include MotoDeportiva.puml
+@enduml
